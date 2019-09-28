@@ -1,7 +1,7 @@
 <template>
   <div>
     <header>
-      <h1>{{ this.$store.state.headerText }}</h1>
+      <h1>TODO App !!!</h1>
     </header>
   </div>
 </template>
